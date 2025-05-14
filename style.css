@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.hover-box {
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+  margin: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.hover-box:hover {
+  background-color: cornflowerblue;
+}
+
+.tab-buttons button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+  animation: fadeIn 0.3s ease-in;
+}
+
+.slideshow img {
+  width: 200px;
+  display: none;
+}
+
+.slideshow img.active {
+  display: block;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+}
+
+.success {
+  color: green;
+  font-size: 0.9em;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

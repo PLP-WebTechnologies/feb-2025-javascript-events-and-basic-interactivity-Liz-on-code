@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>JS Event Assignment</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>JS Event Assignment 🎈🎮📋</h1>
+
+  <!-- Event Handling -->
+  <button id="clickBtn">Click Me ✅</button>
+  <div class="hover-box"></div>
+  <input type="text" id="keyInput" placeholder="Type something..." />
+  <p id="keyFeedback"></p>
+  <button id="secretBtn">Secret Button 🤫</button>
+
+  <!-- Interactive Elements -->
+  <h2>Interactive Elements 🎮</h2>
+  <button id="colorToggleBtn">Change Color</button>
+
+  <div class="slideshow">
+    <img src="https://via.placeholder.com/200?text=1" class="active" />
+    <img src="https://via.placeholder.com/200?text=2" />
+    <img src="https://via.placeholder.com/200?text=3" />
+  </div>
+  <button id="nextSlide">Next</button>
+
+  <div class="tabs">
+    <div class="tab-buttons">
+      <button data-tab="tab1">Tab 1</button>
+      <button data-tab="tab2">Tab 2</button>
+    </div>
+    <div id="tab1" class="tab-content active">
+      <p>This is Tab 1 content.</p>
+    </div>
+    <div id="tab2" class="tab-content">
+      <p>This is Tab 2 content.</p>
+    </div>
+  </div>
+
+  <!-- Form Validation -->
+  <h2>Form Validation 📋✅</h2>
+  <form id="form">
+    <input type="text" id="name" placeholder="Name" required />
+    <span id="nameError" class="error"></span><br />
+
+    <input type="email" id="email" placeholder="Email" required />
+    <span id="emailError" class="error"></span><br />
+
+    <input type="password" id="password" placeholder="Password" required />
+    <span id="passwordError" class="error"></span><br />
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <script src="script.js"></script>
+</body>
+</html>

